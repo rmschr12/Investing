@@ -1,3 +1,4 @@
 theme: minima
 title: What should I do with my money
 Description: Investing Blog
+permalink: https://rmschr12.github.io/Investing/:title/
