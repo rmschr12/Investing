@@ -22,6 +22,12 @@ console.log("GitHub Pages is live!");
 ```
 #### Where are my posts
 
+<ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
 
 
 
