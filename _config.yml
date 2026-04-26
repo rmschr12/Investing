@@ -3,3 +3,6 @@ title: Ryans Investing Blog
 Description: Investing Blog
 permalink: https://rmschr12.github.io/Investing/:title/
 name: BLOG OF RYAN
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
