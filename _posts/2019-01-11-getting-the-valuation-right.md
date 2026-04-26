@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Getting the Valuation Right"
+date: 2019-01-11
+categories: [Foundation]
+tags: [valuation]
+---
+
+When investing in any company, getting the valuation right is one of the most important things you can do as an investor. It is not enough to just identify a company you think will succeed and grow earnings. You can be right about the company and still not earn index-beating returns if you bought at too high of a valuation.
+
+So what does valuation mean? In general a valuation is an estimate of worth. There are a number of ways of measuring valuation. The most common and fastest way is the P/E or price to earnings ratio. It is calculated by taking the stock price and dividing it by the earnings per share (EPS). Thankfully those are both very easy pieces of information to find. Many sites will give you P/E directly, though you should check to see if they are giving you trailing or forward P/E. Forward P/E can be useful, but the caveat is that it is a projection, whereas trailing P/E is numbers actually reported by the company.
+
+A company's valuation should be a measure of what the market thinks about the future earnings potential of the company. Companies with slow-growing or stagnant earnings should warrant a lower valuation than ones growing earnings at a faster rate. The market isn't always efficient or right about the future prospects of a company. In order to get a good idea about what the P/E of an established company "should" be, you can look at the historical P/E for that company or industry. For instance consumer staples have had a historical P/E of around 18-20. While generally slow-growing, they are generally given a slightly higher P/E because of their reliability. Even if a recession hits, people still need to buy toothpaste, paper towels, and food.
+
+On the other hand, fast-growing companies should be rewarded with a higher P/E. If a company is growing earnings more than 20% per year, it should have a higher valuation than a company growing earnings at 10% a year. It takes 7 years for a company to double earnings when it is growing 10%. However it only takes about 3 and a half years for a company to double earnings when it is growing at 20%. That shorter amount of time to grow earnings makes it worth it to pay more initially. The problem is it is very hard to find companies that can consistently grow earnings at 20%. If you can find a company growing earnings consistently at 20% and trading at a P/E of 40 or less, buy it!
+
+The reason getting the valuation right is so important is because **in the long run, stock price increases will mimic the earnings increase of a company, assuming the P/E remains the same.** This is a core tenet of value investing. If a company increases earnings by 8% a year, its stock price will also increase by 8% a year, assuming the P/E remains the same. Rarely is this a perfectly linear occurrence, as stock prices are influenced by a plethora of factors, but in the long run, this almost always holds true. So if you buy a great company that doesn't necessarily have great growth prospects like Coca-Cola at a P/E of 40, its earnings will have to **double** over time just for you to break even as the P/E naturally drifts back to its historical average of 20. It's hard enough to pick the correct companies in the marathon that is your investing life. There's no need to add the additional hurdle of overcoming P/E compression to the race.

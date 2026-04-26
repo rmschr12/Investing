@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Once in a Lifetime"
+date: 2019-01-10
+categories: [Saving]
+tags: [Income, Saving, T]
+---
+
+I was talking with a friend of mine about the NFL playoffs when he mentioned he had Chiefs season tickets, which entitled him to purchase playoff tickets at face value. He said he was even more excited than usual about the upcoming game because if the Chiefs won and earned a home AFC championship game, he would be able to sell his tickets for a $1,000 profit. I asked him if he had considered going to the game, as it could be a once in a lifetime opportunity to see his team play a home championship game. He replied that he wasn't really at a stage in life (he is in his late 20's) where he could comfortably justify foregoing $1,000 to see a sporting event, and that even though it was potentially once in a lifetime, he could use that $1,000 to buy AT&T stock, which would pay him dividends for the rest of his lifetime.
+
+The dividend investor in me tingled at that. Instead of taking in a day of what is sure to be an incredibly exciting event in person, he would choose to take $68 a year for the rest of his life, which will likely grow around 2.5% each year (AT&T's 10 year dividend growth rate), which is just about enough to keep up with inflation. Choices like that lay a solid financial foundation years down the road. Now $68 a year does not sound like a helluva lot, but reminder — this is in essence a windfall. He did not have to work any extra hours to earn this new income stream, he just had to decide to not go to an event.
+
+There will be times in life where you do find yourself with extra money coming in from a source you were not expecting. Most of the time it will be a lot less than $1,000, but sometimes, especially in the cases of inheritances, it will be a lot more. The important thing is to have the right mindset about any money coming in. Yes, it is tempting to splurge and get yourself something nice or take an exotic trip you normally wouldn't be able to. But you should also keep in mind the potential for that money to provide you an income stream you won't have to work for in the future. I'm not saying that you should never splurge or spend money on awesome experiences — but an annoying truth is that $1,000 saved at 28 is a lot more valuable than $1,000 saved at 38.
+
+Why is that? The two main reasons are compounding and inflation. Let's say the Chiefs do win and my friend does buy $1,000 of AT&T stock. At the current price of $30, he would receive 33 shares. Over the next 10 years, he can expect to receive approximately $750 in dividends, or almost 75% of his original investment. In addition to that, he will still have all the shares he originally purchased, and by that time he can expect to be getting around $87 a year from those original 33 shares (2.5% dividend growth over 10 years). And that is if he decides not to reinvest the dividends. If he does, the picture becomes even prettier. In that case he would have around 55 shares after 10 years, paying around $150 a year. All that from skipping one event 10 years ago.
