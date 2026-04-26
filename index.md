@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Welcome to My Site
-description: A short description of my GitHub Pages project.
+title: Ryan's Finance Blog
+description: It's an investing blog
 ---
 
 # Hello, World!
@@ -20,6 +20,10 @@ To modify this page, edit the `index.md` file in your repository. For more advan
 ```javascript
 console.log("GitHub Pages is live!");
 ```
+#### Where are my posts
+
+
+
 
 ---
 [Contact Me](mailto:example@email.com) | [View on GitHub](https://github.com)
