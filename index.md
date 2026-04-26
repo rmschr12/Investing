@@ -1,15 +1,6 @@
 ---
-layout: home
+layout: post
 title: Home
 ---
 Welcome to my blog!
 
-
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
